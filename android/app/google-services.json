@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572207067835",
+    "project_id": "rider-a93d3",
+    "storage_bucket": "rider-a93d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572207067835:android:e1722ae692b651a38eef9e",
+        "android_client_info": {
+          "package_name": "com.example.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnYlnSwRhXs3hYF5eHgoClB8MgQv1neI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
